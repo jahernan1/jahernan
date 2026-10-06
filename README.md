@@ -28,4 +28,4 @@ and engineering meet: industry research teams and national laboratories.
   [Phys. Rev. C 100, 054301 (2019)](https://doi.org/10.1103/PhysRevC.100.054301)
 - J. A. Hernandez, *Doubly-Strange Baryon Spectroscopy with the GlueX Experiment* (PhD dissertation, FSU, 2025)
 
-📫 [LinkedIn](https://www.linkedin.com/in/jahernan10) · [ORCID](https://orcid.org/0000-0002-6048-3986) · [email or website]
+📫 [LinkedIn](https://www.linkedin.com/in/jahernan10) · [ORCID](https://orcid.org/0000-0002-6048-3986) · jahphys@gmail.com
